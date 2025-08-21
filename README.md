@@ -39,5 +39,6 @@ fpga-alu-verilog/
 │   └── design_overview.md
 ├── LICENSE
 └── README.md
+The above verilog code can also be implemented in 4bit according to your choice.
 ```
 
